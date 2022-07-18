@@ -1,0 +1,93 @@
+{
+  "translation": {
+    "auth": {
+      "title": ""
+    },
+    "home": {
+      "tournament": "Tournament",
+      "game": "Game",
+      "all": "All",
+      "join_with_energy": "{{energy}}",
+      "read_more": "Read More"
+    },
+    "tutorial": {
+      "guide_1": "Play games with\nENERGY\nCan buy ENERGY\nin store page.",
+      "guide_2": "Win tournament\nto get KOKO.\nCan buy game items\nwith KOKO.",
+      "guide_3": "Can also exchange\nKOKO",
+      "tap_to_start": "TAP TO START"
+    },
+    "store": {
+      "energy": "ENERGY",
+      "buy_energy": "Buy Energy",
+      "items": "ITEMS",
+      "recommend": "Recommend"
+    },
+    "sponsor": {
+      "more_info": "For more information,\nPlease check CLOUD7"
+    },
+    "chat": {
+      "room": "Room",
+      "dm": "DM",
+      "cs": "Support",
+      "report": "Report",
+      "block": "Block",
+      "block_title": "BLOCK",
+      "blocked_by": "You have been blocked by {{username}}"
+    },
+    "profile": {
+      "see_more": "See More",
+      "blockList": "Block List",
+      "click_here_trouble": "Click here when in trouble",
+      "tournament_history": "Tournament \nhistory",
+      "tournament_history_1": "Tournament History",
+      "unblock": "Unblock"
+    },
+    "game": {
+      "tournament": "Tournament",
+      "pvp": "PVP",
+      "practise": "Practise",
+      "rule": "Rule",
+      "ranking": "Ranking",
+      "ranking_suf": {
+        "1": "st",
+        "2": "nd",
+        "3": "rd",
+        "other": "th"
+      },
+      "play_now": "PLAY NOW",
+      "finished": "FINISHED",
+      "unknown": "Unknown",
+      "entry_fee": {
+        "title": "Enter Tournament",
+        "message": "Do u want to use {{energy}} energy\nto enter this tournament?"
+      },
+      "result": {
+        "ranking": "Ranking",
+        "score": "Score",
+        "back": "Back",
+        "play_again": "Play Again"
+      },
+      "matching": "Matching・・・"
+    },
+    "dialog": {
+      "def_title": "Unknown",
+      "def_message": "Unknown",
+      "def_cancel": "BACK",
+      "def_ok": "OK"
+    },
+    "share":  {
+      "detail": {
+        "tournament": "{{game_title}}'s {{tournament_name}} is running. 1st place can win KOKO! Let's play together!",
+        "game": "Let's join {{game_title}}'s tournament together!"
+      },
+      "result": {
+        "tournament": "I got {{order}} place at {{game_title}}'s {{tournament_name}}!",
+        "match": {
+          "win": "I won {{username}} at {{game_title}} pvp match and won the prize!",
+          "draw": "I'm tied with {{username}} on {{game_title}}! The match was so much fun!",
+          "lose": "I lost to {{username}} on {{game_title}}, someone please help!"
+        }
+      }
+    }
+  }
+}

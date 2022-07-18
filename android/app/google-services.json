@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "124310744417",
+    "firebase_url": "https://kokonats-dev-42730-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kokonats-dev-42730",
+    "storage_bucket": "kokonats-dev-42730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124310744417:android:5acf959153d93f5e4a2920",
+        "android_client_info": {
+          "package_name": "club.kokonats.koko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124310744417-mbg2052558ff52f37epkaqhavg3aese4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.kokonats.koko",
+            "certificate_hash": "afce8a6045bcaf8cf9ab5e19404c447770999816"
+          }
+        },
+        {
+          "client_id": "124310744417-uk5dbk20trvcj5oik7fkfmbcjp3krujm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.kokonats.koko",
+            "certificate_hash": "0a1a37e9b99d442ceae56128084beaf457b4de13"
+          }
+        },
+        {
+          "client_id": "124310744417-1bfi3vm4kaidqi57gffbjik9m29dr7le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQMcnrCAi266IoS_Oxxm6hy_lX66gV2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124310744417-1bfi3vm4kaidqi57gffbjik9m29dr7le.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124310744417-usvjbrj6e6epvodkmhvrs76msvgnoig2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "club.kokonats.koko"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

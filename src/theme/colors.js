@@ -1,0 +1,30 @@
+const colors = {
+  black: '#000000',
+  white: '#ffffff',
+  background: '#191A32',
+  unselectedItemColor: '#273B4A',
+  loginColor: '#323755',
+  textGray: '#7583CA',
+  energyBg: 'rgba(255, 203, 0, 0.1)',
+  onBg: '#21283F',
+  yellow: '#FFCB00',
+  coinYellow: '#FABE2C',
+  lightGray: '#C0C6DD',
+  blue: '#4870FF',
+  greenStamp: '#4FC6B9',
+  D8: '#D8D8D8',
+  D9: '#D9D9D9',
+  orange: '#DC5328',
+  keywordBg: '#2B3A34',
+  green: '#00CB75',
+  moreColor: '#8e97fd',
+  pink: '#EF5DA8',
+  gray: '#C4C4C4',
+  gray2: '#767676',
+  chatYellow: '#FF9900',
+  recommend: '#EB5757',
+  onPurchasedText: '#424F7A',
+  red: "#FF3B30"
+};
+
+export default colors;

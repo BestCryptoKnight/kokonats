@@ -1,0 +1,92 @@
+{
+  "translation": {"auth": {
+    "title": ""
+  },
+    "home": {
+      "tournament": "トーナメント",
+      "game": "ゲーム",
+      "all": "全部",
+      "join_with_energy": "{{energy}}で参加",
+      "read_more": "詳しく見る"
+    },
+    "tutorial": {
+      "guide_1": "エナジーを使用して\nゲームに参加しよう！\nエナジーはストアから\n購入できます",
+      "guide_2": "トーナメントに参加して\nココナッツを稼ごう！\n貯めたココナッツで\nアイテムをゲット",
+      "guide_3": "稼いだココナッツは\n交換もできる！",
+      "tap_to_start": "タップでスタート"
+    },
+    "store": {
+      "energy": "エナジー",
+      "buy_energy": "エナジーを購入",
+      "items": "アイテム",
+      "recommend": "キャンペーン"
+    },
+    "sponsor": {
+      "more_info": "For more information,\nPlease check CLOUD7"
+    },
+    "chat": {
+      "room": "オープン",
+      "dm": "ダイレクト",
+      "cs": "運営",
+      "report": "通報",
+      "block": "ブロック",
+      "block_title": "BLOCK",
+      "blocked_by": "You have been blocked by {{username}}"
+    },
+    "profile": {
+      "more": "もっと見る",
+      "blockList": "ブラックリスト",
+      "click_here_trouble": "困った時はこちら",
+      "tournament_history": "トーナメント\n参加履歴",
+      "tournament_history_1": "トーナメント参加履歴",
+      "unblock": "ブロック解除"
+    },
+    "game": {
+      "tournament": "トーナメント",
+      "pvp": "PVP",
+      "practice": "練習",
+      "rule": "ルール",
+      "ranking": "ランキング",
+      "ranking_suf": {
+        "1": "位",
+        "2": "位",
+        "3": "位",
+        "other": "位"
+      },
+      "play_now": "今すぐプレイ",
+      "finished": "終了",
+      "unknown": "未定",
+      "entry_fee": {
+        "title": "トーナメントに参加",
+        "message": "{{energy}}エナジーを消費して\n参加しますか？"
+      },
+      "result": {
+        "ranking": "取得順位",
+        "score": "スコア",
+        "back": "ホームに戻る",
+        "play_again": "もう一度参加"
+      },
+      "matching": "マッチング・・・"
+    },
+    "dialog": {
+      "def_title": "未定",
+      "def_message": "未定",
+      "def_cancel": "BACK",
+      "def_ok": "OK"
+    },
+    "share":  {
+      "detail": {
+        "tournament": "{{game_title}} の {{tournament_name}} KOKOで開催中です！早く一緒に参加しましょう！",
+        "game": "KOKOで{{game_title}}を一緒に大会に参加しましょう！"
+      },
+      "result": {
+        "tournament": "{{game_title}} の 大会 {{tournament_name}} で 第{{order}}位 を獲得した！",
+        "match": {
+          "win": "{{game_title}} で {{username}} を勝って賞金獲得した！",
+          "draw": "{{game_title}} で {{username}} と引き分けました！試合がすごく楽しかった！",
+          "lose": "{{game_title}} で {{username}} に負けました、誰か助けてください！"
+        }
+      }
+    }
+  }
+}

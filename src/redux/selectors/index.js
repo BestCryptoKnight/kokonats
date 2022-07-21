@@ -23,7 +23,7 @@ export const getPurchasedItems = state => state.store.purchasedItems;
 
 // Store
 export const getEnergyBalance = state => state.store.energy;
-export const getCoinBalance = state => state.store.coin.confirmed;
+export const getCoinBalance = state => state.store.coin.confirmed ?? 0;
 export const getGameItemsList = state => state.store.items;
 
 // Game

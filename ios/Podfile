@@ -19,6 +19,12 @@ target 'Kokonats' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
+  pod 'RNSVG', :path => '../node_modules/react-native-svg'
+  pod 'RNCAsyncStorage', :path => '../node_modules/@react-native-community/async-storage'
+  pod 'react-native-twitter-signin', :path => '../node_modules/react-native-twitter-signin'
+
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
   target 'KokonatsTests' do
     inherit! :complete
     # Pods for testing
